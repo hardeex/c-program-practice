@@ -18,7 +18,7 @@ int main(){
 
     if (operator == '+')
     {
-        printf("Addition: %f\n", num1-num2);
+        printf("Addition: %f\n", num2 + num1);
     } else if(operator == '-'){
         printf("Subtraction: %f \n", num1-num2);
         printf("Alternately: %f \n", num2-num1);
