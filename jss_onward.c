@@ -12,6 +12,8 @@ char student[150];
     printf("What is your Name? ");
     fgets(student, 150, stdin);
     printf("Your name is %s", student);
+
+    
     
 
     return 0;
